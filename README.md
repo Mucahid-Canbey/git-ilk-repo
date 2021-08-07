@@ -12,3 +12,14 @@ https://github.com/Mucahid-Canbey/kodluyoruz-ilk-repo.git
 ```
 
 ---
+
+## Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+
+```
+cd kodluyoruzilkrepo
+code .
+```
