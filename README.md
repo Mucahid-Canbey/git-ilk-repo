@@ -12,7 +12,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
  proje clon:
 
 ```
-https://github.com/Mucahid-Canbey/kodluyoruz-ilk-repo.git
+https://github.com/Mucahid-Canbey/git-ilk-repo.git
 ```
 
 ---
